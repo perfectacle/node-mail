@@ -1,0 +1,8 @@
+.idea
+node_modules
+app/dist
+*.iml
+*.log
+config.json
+test*.js
+.DS_Store
